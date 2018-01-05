@@ -1,0 +1,41 @@
+.panel-info {
+  background-color: #F5FAFF;
+  border-color: #CFDFF1;
+}
+.container {
+  display: inline-block;
+}
+.panel-success {
+  background-color: #F5FFFA;
+}
+.panel-title {
+  color: black;
+}
+
+.panel-primary {
+  background-color: #FAF5FF;
+  border-color: #DDCFF1;
+}
+
+.panel-primary > .panel-heading {
+  background-color: #DDCFF1;
+  border-color: #DDCFF1;
+}
+hr {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+#nav1 p {
+  padding: 0 5px;
+  margin: 0;
+}
+#leftnavbar .col-md-2 {
+  background-color: #F6F6F6;
+}
+#leftnavbar {
+  min-width: 100px;
+}
